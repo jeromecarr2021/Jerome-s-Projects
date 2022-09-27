@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+  <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Website 1</title>
+        <link rel="stylesheet" href="styles1.css"/>
+    </head>
+        
+    <body>
+        <header>
+            <div class="mainHeader">
+            <div class="logo">Logo</div>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">Services</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div class="section">
+            <div class="hero">
+            <h1>Welcome to my site</h1>
+            <h2>This is what my site is about</h2>
+            <div class="calltoaction">This is great info...</div>
+        </div>
+        <div class="section">
+            <div class="container">
+                <div class="col col-4">
+                    <img src="https://dummyimage.com/600x400/000/fff">
+                </div>
+                <div class="col col-4">
+                    Two
+                </div>
+                <div class="col col-4">
+                    Three
+                </div>
+                <div class="col col-4">
+                    Four
+                </div>
+            </div>
+            </div>
+        <div class="section">
+            <h1>Gallery</h1></div>
+        <div class="section">
+            <h1>Content 1</h1></div>
+        <div class="section">
+            <h1>Content 2</h1></div>
+        <div class="section">
+            <h1>Content 3</h1></div>
+
+        <footer><h1>Foot of Page</h1></footer>
+        <script src="app1.js  "></script>
+    </body>
+        </html>
